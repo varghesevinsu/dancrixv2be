@@ -1,0 +1,3 @@
+com\dancrix\storage\CloudStorage.class
+com\dancrix\storage\GCSConnection.class
+com\dancrix\DownloadServlet.class
